@@ -1,4 +1,4 @@
-### GRASS + Proxy Seller residential proxies
+### GRASS + Proxy Seller residential proxies | With 10% author royalty!
 
 # Install Python *(required)
 
